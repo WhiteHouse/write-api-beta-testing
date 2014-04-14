@@ -21,12 +21,12 @@ As you build and code against the API, we hope you'll use this repo as a space t
 
 If you'd like to form groups to work on a shared project, or post code here for other participants to reuse, please feel free. This is your sandbox!
 
-Note: Looking for the Read API? That's HERE.
+Note: Looking for the Read API? [That's here](https://petitions.whitehouse.gov/developers).
 
 Getting started:
 ----------------
 
-First you'll need an key for the Write API beta. Don't have one? You can apply for one HERE.
+First you'll need an key for the Write API beta. Don't have one? [You can apply for one here](http://www.whitehouse.gov/webform/apply-we-people-write-api-beta).
 
 Each beta tester will be sent petition IDs for a petition with no signatures, a petition that has met the response threshold, and an expired petition. These are unique to each beta tester so that you can confirm your signatures effectively.
 
@@ -66,4 +66,4 @@ While the White House intends to release write methods for the We the People API
 Privacy
 -------
 
-This repo is associated with the official White House GitHub profile. All comments, messages, commits, and other submissions received through official White House pages including this GitHub page are subject to the Presidential Records Act and may be archived. Learn more: http://WhiteHouse.gov/privacy
+This repo is associated with the official White House GitHub profile. All comments, messages, commits, and other submissions received through official White House pages including this GitHub page are subject to the Presidential Records Act and may be archived. Learn more: [WhiteHouse.gov/Privacy](http://WhiteHouse.gov/privacy)
