@@ -1,2 +1,69 @@
+Welcome!
+========
 
-Placeholder. Add Welcome / Getting Started info here.
+Welcome to the GitHub repo for the White House Beta Write API. We're excited to work with you!
+
+
+### About We the People:
+
+We the People is the White House's petitions platform -- giving people a new way to petition the government. The way it works is pretty simple: People can create or sign petitions on WhiteHouse.gov. If it gets enough support (i.e. signatures), it will receive an official response. And with more than 13 million users, it's been a big success.
+
+So why the API? We know that even more people want to reach us on other sites across the internet. The Write API will allow individuals and organizations to collect signatures from their own platforms and submit them to We the People, all without requiring users to visit our site.
+
+
+### Our objectives for the beta period:
+
+- Test the Write API
+- Fix issues and squash bugs
+- Improve documentation ahead of a public release
+
+As you build and code against the API, we hope you'll use this repo as a space to open issues, ask questions, and (if you'd like) coordinate with other participants.
+
+If you'd like to form groups to work on a shared project, or post code here for other participants to reuse, please feel free. This is your sandbox!
+
+Note: Looking for the Read API? That's HERE.
+
+Getting started:
+----------------
+
+First you'll need an key for the Write API beta. Don't have one? You can apply for one HERE.
+
+Each beta tester will be sent petition IDs for a petition with no signatures, a petition that has met the response threshold, and an expired petition. These are unique to each beta tester so that you can confirm your signatures effectively.
+
+**Please note:**
+- All API requests during the Beta period should go through http://11111011100.api.whitehouse.gov/ 
+- Use 'http, not 'https' during the Beta, but you'll need to use 'https' after this goes into production.
+- For beta petitions, the threshold for a petition to be publicly visible is 2 signatures, and the threshold for a "response" is 10 signatures (these equate to the current signature thresholds of 150 and 100,000 in production).
+
+**Beta rules of the road:**
+- During the beta period API keys are limited to 50,000 write calls (signatures) per month.
+- API keys provided for the beta period are for use solely during the beta period, are not transferable, and are not to be shared.
+- During the beta period, applications using API keys must not be released for use by the general public or used in a production environment.
+- We the People API keys provided for the beta period may only be used to submit signatures to "sandbox" petitions created by the White House for the purpose of testing the API's functionality. You may not create new petitions.
+- Violation of these terms, or any of Petitions API Terms of Use may result in your API key being deactivated.
+
+### Feedback:
+
+Please send us any feedback, including questions, bug reports, and pull requests via our GitHub issue queue https://github.com/WhiteHouse/write-api-beta-testing, or you may also use our developers feedback form http://www.whitehouse.gov/developers/feedback.
+
+
+Terms of Use
+------------
+
+By participating in the beta period for Version 2.0 of the We the People API, you acknowledge that you have read, understood, and agree to be bound by these Terms of Use, as well as the terms and conditions contained in the WhiteHouse.gov Privacy Policy and the We the People’s Terms of Participation and Moderation Policy, and to comply with all applicable laws and regulations.
+
+The purpose of the beta period is to test the We the People API's write methods, identify bugs and other technical issues, and develop tools that will allow others to submit signatures to We the People petitions platform without directing users to WhiteHouse.gov.
+
+Participants in the beta period must provide or contribute to the development of constituent relationship management (CRM) systems that feature online petitions functionality. By taking part, you commit to develop against the API during the beta period and provide ongoing feedback to the White House team.
+
+We the People API keys provided for the beta period are for use solely during the beta period, are not transferable, and are not to be shared. During the beta period, applications using API keys must not be released for use by the general public or used in a production environment. We the People API keys provided for the beta period may only be used to submit signatures to "sandbox" petitions created by the White House for the purpose of testing the API's functionality. Violation of these terms may result in your API key being deactivated.
+
+Participation in the beta period does not constitute an endorsement of the participants' project or create a business relationship between the participant and the White House. The White House reserves the right to invite additional applicants to participate in the beta period on an ongoing basis should circumstances permit. The White House also reserve the right to scale back, cancel or suspend the beta period or individual API keys if necessary based on system stability or other technical issues that may arise during the beta period.
+
+While the White House intends to release write methods for the We the People API, it is not obligated to do so. New terms of use for the API and new API keys would accompany such a release. The White House cannot guarantee that functionality developed during the beta period will be compliant with those terms of use.
+
+
+Privacy
+-------
+
+This repo is associated with the official White House GitHub profile. All comments, messages, commits, and other submissions received through official White House pages including this GitHub page are subject to the Presidential Records Act and may be archived. Learn more: http://WhiteHouse.gov/privacy
