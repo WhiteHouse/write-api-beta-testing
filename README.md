@@ -36,12 +36,7 @@ and submit them to We the People, all without requiring users to visit our site.
 Request early access to the We the People API here:
 http://www.whitehouse.gov/webform/apply-we-people-write-api-beta
 
-We are currently prioritizing requests from people and organizations who (1)
-are able to produce a working proof-of-concept app before the [National Day of
-Civic Hacking](http://hackforchange.org/) at the end of May, (2) are able to
-attend a hack day / demo day at the White House complex on May 30, 2014, and (3)
-will be able to "go live" with their apps as soon as the We the People API is
-released publicly (sometime between May 30 and this fall).
+We're currently looking for beta testers who have developed a web application before, have experience with an online petitions platform, and have developed against a RESTful API before.
 
 ### Our objectives for the beta period
 
