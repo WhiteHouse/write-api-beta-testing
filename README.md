@@ -106,7 +106,7 @@ need to exercise the full read and write functionality of the API.
 
 If you're working on something, and you're interested in connecting with other
 people working on things, please introduce yourself here:
-https://github.com/WhiteHouse/write-api-beta-testing/issues/1.
+https://github.com/WhiteHouse/write-api-beta-testing/issues/3.
 
 ### Feedback
 
