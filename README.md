@@ -55,7 +55,7 @@ Getting started
 When your [request for an API key](#request-a-key) is approved, you will receive
 an email including:
 
-  - An API key enablind you to POST signatures to
+  - An API key enabling you to POST signatures to
     http://11111011100.api.whitehouse.gov/v1/signatures
   - A petition ID for a petition with no signatures (test POSTing signatures to
     this petition)
