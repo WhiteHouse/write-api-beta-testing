@@ -93,6 +93,8 @@ need to exercise the full read and write functionality of the API.
 
 ### API documentation and examples
 
+The staging version of the documentation below contains information on the API's new methods, which allow you to submit signatures and confirm that they have been validated. The production version of the documentation only covers the API's read methods.
+
 - Staging: https://11111011100.petitions.whitehouse.gov/developers
 - Production: https://petitions.whitehouse.gov/developers
 - Examples: https://petitions.whitehouse.gov/how-why/api-gallery
